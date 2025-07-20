@@ -17,7 +17,7 @@ interface CommandProps {
 
 interface CommandComponents {
   buttons?: ComponentsButton;
-  select?: ComponentsSelect;
+  selects?: ComponentsSelect;
   modals?: ComponentsModal;
 }
 
